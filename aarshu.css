@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #00FFCA;
+       /* The image used */
+       background-image: url(tree-sun-light-summer-forest-wallpaper-preview.jpg);
+    
+       /* Full height */
+       height: 100%;
+       
+       /* Center and scale the image nicely */
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       
+       border: #F97B22;
+}
+.MatriBhasha{
+    color: #E86A33
+}
